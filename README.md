@@ -7,7 +7,7 @@ It focuses on simulating the essential backend logic — including user interact
 
 ## Project Overview
 
-Quora Lite provides a SQL Server-based backend that mimics the main functionality of the Quora platform, including:
+This project provides a SQL Server-based backend that mimics the main functionality of the Quora platform, including:
 
 - Users posting questions and answers
 - Following topics and users

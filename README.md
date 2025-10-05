@@ -58,7 +58,7 @@ This project provides a SQL Server-based backend that mimics the main functional
 
 This is a preview of the homepage used in this Quora Lite simulation.
 
-![Homepage Screenshot](images/home page.PNG)
+![Homepage Screenshot](images/home%20page.PNG)
 
 ---
 

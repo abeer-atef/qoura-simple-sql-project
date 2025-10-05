@@ -1,4 +1,4 @@
-# Quora Lite – Database Project
+# Quora – Database Project
 
 This project is a simplified simulation of Quora's core features, focusing purely on the **database layer**.  
 It focuses on simulating the essential backend logic — including user interactions, question-and-answer flows, and topic-based content delivery — through stored procedures and functions in SQL Server.
@@ -58,7 +58,7 @@ Quora Lite provides a SQL Server-based backend that mimics the main functionalit
 
 This is a preview of the homepage used in this Quora Lite simulation.
 
-![Homepage Screenshot](images/home-page.PNG)
+![Homepage Screenshot](images/home page.PNG)
 
 ---
 
@@ -72,11 +72,7 @@ This is a preview of the homepage used in this Quora Lite simulation.
 3. Use **SQL Server Management Studio (SSMS)** to run and test the procedures and queries.  
 4. Images are included in the `images/` folder for reference.  
 
----
 
-## Screenshots
-
-See the `images/` folder for UI and result previews.
 
 
 

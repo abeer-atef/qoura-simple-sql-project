@@ -44,13 +44,13 @@ Quora Lite provides a SQL Server-based backend that mimics the main functionalit
 
 ### ✅ Query Result - Homepage Feed
 
-![Query Result 1](images/query1.PNG)
+![Query Result 1](images/home-page-query.PNG)
 
 ---
 
-### ✅ Query Result - Profiles Details
+### ✅ Query Result - Questions For You
 
-![Query Result 2](images/query2.PNG)
+![Query Result 2](images/questions-for-you-result.PNG)
 
 ---
 
@@ -58,7 +58,7 @@ Quora Lite provides a SQL Server-based backend that mimics the main functionalit
 
 This is a preview of the homepage used in this Quora Lite simulation.
 
-![Homepage Screenshot](images/quora.PNG)
+![Homepage Screenshot](images/home-page.PNG)
 
 ---
 
